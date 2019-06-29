@@ -1,6 +1,8 @@
 # Swerve
 -Single player car game
+
 -Created with python and pygame
+
 -Move your car using your keyboard arrow keys
 
 ## To Play
