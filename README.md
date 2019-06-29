@@ -1,11 +1,16 @@
 # Swerve
--Single player car game
+*Single player car game
 
--Created with python and pygame
+*Created with python and pygame
 
--Move your car using your keyboard arrow keys
+*Move your car using your keyboard arrow keys
 
 ## To Play
 1. Clone project
 2. Open src folder
 3. new bg.py
+
+## Gameplay
+![gameplay] (swerve gameplay.png)
+
+![crashed gameplay] (swerve crash.png)
