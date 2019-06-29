@@ -11,6 +11,6 @@
 3. new bg.py
 
 ## Gameplay
-![gameplay] (swerve gameplay.png)
+![gameplay] (https://github.com/NPachella/swerve/blob/master/swerve%20gameplay.png?raw=true)
 
 ![crashed gameplay] (swerve crash.png)
